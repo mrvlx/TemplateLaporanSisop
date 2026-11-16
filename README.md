@@ -1,7 +1,5 @@
 # Template Laporan Sistem Operasi
 
-<img src="https://www.its.ac.id/komputer/wp-content/uploads/sites/28/2018/03/image10.png" alt="Teknik Komputer ITS" width="150" height="150">
-
 ## Deskripsi
 
 Template ini dibuat untuk mempermudah praktikan membuat laporan dengan LaTex. Untuk poin-poin yang harus ada pada laporan sudah ditulis pada template.
